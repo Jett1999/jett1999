@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1999Jett
+- 👋 Hi, I’m @Jett1999
 - 👀 I’m interested in Software/Game development/High frequency trading
 - 🌱 I’m currently learning C++/UE5
 - 🌊 I’m looking to work in USA/Switzerland/Ireland/Netherlands
