@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JettZgg
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning distributed systems
+- 👀 I’m interested in Software development/Game development
+- 🌱 I’m currently learning at UCD
 - 🌊 I’m looking forward to working in USA/EU
 - 📫 How to reach me: Jett.Z@outlook.com
