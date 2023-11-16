@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software development/Game development
 - 🌱 I’m currently learning at UCD
 - 🌊 I’m looking forward to working in USA/EU
-- 📫 How to reach me: Jett.Z@outlook.com
+- 📫 How to reach me: 1999jett@gmail.com
