@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JettZgg
-- 👀 I’m interested in Software development/Game development
-- 🌱 I’m currently learning at UCD
-- 🌊 I’m looking forward to working in USA/EU
-- 📫 How to reach me: 1999jett@gmail.com
+- 👀 My blog: https://jettzgg.github.io/
+- 👾 I'm interested in game developement & trading.
+- 🌱 I don't like working, but I like money.
+- 🌊 I’m looking forward to a remote job.
