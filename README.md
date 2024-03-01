@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JettZgg
+# Hi, I’m @JettZgg👋
 - 👀 My blog: https://jettzgg.github.io/
-- 👾 I'm interested in game developement & trading.
-- 🌱 I don't like working, but I like money.
-- 🌊 I’m looking forward to a remote job.
+- 👾 I'm interested in game & 90s art.
+- 😸 Twitter: https://twitter.com/JettZgg
